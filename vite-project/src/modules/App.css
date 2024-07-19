@@ -1,0 +1,20 @@
+body{
+    background-color: hsl(223, 19%, 93%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  *{
+    font-family: 'Rubik', sans-serif;
+  }
+  
+  button {    
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+    background-color: transparent;
+  }
+  
+  button:hover {
+    opacity: 0.5;
+  }
